@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+![Untitled-1](https://user-images.githubusercontent.com/85166315/120342595-8fd89f00-c315-11eb-9b42-a8e36605a2a0.png)
 
-You can use the [editor on GitHub](https://github.com/sanjaypt2000/intro-html/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Hey folks,
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# A 7-Day Immersive Flutter Bootcamp!!
+Organized by ATFG Gtech in association with Flutter Kerala. Make your first step in building apps with Flutter. The Bootcamp aims to ease beginners into the world of app dev using Flutter. Taught by experienced mentors from Flutter Kerala.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+' _The What, Why and How to Flutter._'
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sanjaypt2000/intro-html/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+An open-source UI Software Development Kit from Google, Flutter is used to develop cross-platform apps from a single codebase. (Makes developers' life and codebase management easier 😉 ). If you're a beginner into tech or someone planning to learn a new skill to up your career, This Bootcamp is for you.
+
+To register for the Flutter Bootcamp [click here](https://www.eventbrite.com/e/make-with-flutter-7-day-immersive-bootcamp-tickets-156561366261)
+
+
+Upon successful registration, [click here](https://www.notion.so/Onboarding-Gtech-Discord-Server-f0cffdf181b1422d8d37f1b4ef129124) to onboard the Gtech Discord server and participate in the Bootcamp.
+
+Bootcamp Timeline: Wednesday 2nd, June - Thursday 10 th, June
+
+**Limited slots are available. The Bootcamp is completely free of cost.**
+
+
